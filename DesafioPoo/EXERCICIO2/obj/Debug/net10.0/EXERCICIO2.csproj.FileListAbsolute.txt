@@ -1,0 +1,15 @@
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\bin\Debug\net10.0\EXERCICIO2.exe
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\bin\Debug\net10.0\EXERCICIO2.deps.json
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\bin\Debug\net10.0\EXERCICIO2.runtimeconfig.json
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\bin\Debug\net10.0\EXERCICIO2.dll
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\bin\Debug\net10.0\EXERCICIO2.pdb
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.AssemblyInfoInputs.cache
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.AssemblyInfo.cs
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.csproj.CoreCompileInputs.cache
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.sourcelink.json
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.dll
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\refint\EXERCICIO2.dll
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.pdb
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\EXERCICIO2.genruntimeconfig.cache
+C:\Users\51155097840\Desktop\3 Semestre_DEV\EXERCICIO2\obj\Debug\net10.0\ref\EXERCICIO2.dll
