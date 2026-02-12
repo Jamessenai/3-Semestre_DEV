@@ -1,0 +1,5 @@
+C:\Users\51155097840\Desktop\3 Semestre_DEV\DesafioPoo\Exercicio7\obj\Debug\net10.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51155097840\Desktop\3 Semestre_DEV\DesafioPoo\Exercicio7\obj\Debug\net10.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\51155097840\Desktop\3 Semestre_DEV\DesafioPoo\Exercicio7\obj\Debug\net10.0\Exercicio7.AssemblyInfo.cs
+C:\Users\51155097840\Desktop\3 Semestre_DEV\DesafioPoo\Exercicio7\obj\Debug\net10.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\51155097840\Desktop\3 Semestre_DEV\DesafioPoo\Exercicio7\obj\Debug\net10.0\Exercicio7.sourcelink.json
